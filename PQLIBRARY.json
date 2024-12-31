@@ -3414,5 +3414,716 @@
     "subject": "Economics",
     "exam": "JAMB",
     "image": ""
+  },
+	{
+    "id": 393,
+    "title": "A tariff is a tax imposed on",
+    "body": "A) Consumer goods<br />B) Domestic goods<br />C) Imported goods<br />D) Exported goods",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 394,
+    "title": "The demand for a good is price inelastic if",
+    "body": "A) The price elasticity is less than one<br />B) The price elasticity is one<br />C) The price elasticity is negative<br />D) The price elasticity is greater than one",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 395,
+    "title": "Which of the following is an example of free good?",
+    "body": "A) Free education<br />B) Water in the ocean<br />C) Dinner you did not pay for<br />D) Your rented apartment",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 396,
+    "title": "The marginal propensity to consume is",
+    "body": "A) Options B, C and D<br />B) ΔC/ΔY<br />C) The slope of the consumption function<br />D) Coefficient c in the equation C = C + cYd",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 397,
+    "title": "The short run can be defined as the period of time during which",
+    "body": "A) All inputs are fixed<br />B) At least one of the firm's input is fixed<br />C) At least two inputs are fixed<br />D) All inputs are variable",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 398,
+    "title": "The \"velocity\" of money is",
+    "body": "A) The real money supply divided by the real GDP<br />B) The money supply multiplied by the price level<br />C) The money supply divided by the price level<br />D) The ratio of real GDP to the real money supply",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 399,
+    "title": "The part of income after tax that is not consumed is defined as",
+    "body": "A) Wages and salaries<br />B) Saving<br />C) Capital investment<br />D) Nondurable goods expenditure",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 400,
+    "title": "An industry is",
+    "body": "A) A group of firms producing differentiated products<br />B) A group of firms producing distinct commodities<br />C) A group of firms producing related goods<br />D) A group of firms producing unrelated goods",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 401,
+    "title": "The type of unemployment that occurs when an individual cannot find job as a result of obsolete skill is",
+    "body": "A) Structural unemployment<br />B) Cyclical unemployment<br />C) Seasonal unemployment<br />D) Frictional unemployment",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 402,
+    "title": "The theory of ............... was propounded by ..................",
+    "body": "A) Comparative advantage; Mercantilists<br />B) Absolute advantage; Adam Smith<br />C) Comparative advantage; Adam Smith<br />D) Absolute advantage; David Ricardo",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 403,
+    "title": "If a business' total economic cost of producing 10,000 units of a product is N750,000 and this output is sold to consumers for N1,000,000, then the firm would earn",
+    "body": "A) A normal profit of N750,000<br />B) An economic profit of N750,000<br />C) A normal profit of N1,750,000<br />D) An economic profit of N250,000",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 404,
+    "title": "One major problem facing West African countries is",
+    "body": "A) Relations with Colonial Masters<br />B) Joint Military operations in Member States<br />C) Political integration<br />D) Financial crunch of Member States",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 405,
+    "title": "The development of an economic hypothesis through intuition, insight, or logic is associated with",
+    "body": "A) Deduction<br />B) Policy economics<br />C) Normative economics<br />D) Induction",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 406,
+    "title": "A major factor contributing to productivity is",
+    "body": "A) Immigration of young workers<br />B) The labour force<br />C) The baby boom generation<br />D) The rate of GDP per year",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 407,
+    "title": ".............is presently used in Nigeria to measure inflation",
+    "body": "A) GNP implicit price deflator<br />B) Consumer price index<br />C) Wholesale price index<br />D) Real Gross Domestic Product",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 408,
+    "title": "The fundamental problem of economics is",
+    "body": "A) Finding striking determinants between the forces of supply and demand<br />B) The scarcity of productive resources relative to society's unlimited wants<br />C) The establishment of a political framework to determine the what, how and for whom of production<br />D) To establish an equitable distribution of income",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 409,
+    "title": "The diagram above represent",
+    "body": "A) perfect competition<br />B) monopoly<br />C) demand curve<br />D) competitive market",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhQeR1_8kWeyCekpkmZLopsytHA8WlYLVd-uzfAFMPfAkmIzRzr7OCxnFTo9cMur_DiqX2ylHvCozbZ8VZzShYEXt-_QOoCRBsTnGGzYKBQcO8kHAZeaqaBXjyH1tiP_qrKpf1FA0TNl2pzF3eZk7Z7aXgkkxzmK-aAdPcjXqTjsSkUd1Sk0N5r4CeH55U"
+  },
+  {
+    "id": 410,
+    "title": "What is the lowest price the monopolist can charge",
+    "body": "A) P2<br />B) P1<br />C) P3<br />D) P4",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhQeR1_8kWeyCekpkmZLopsytHA8WlYLVd-uzfAFMPfAkmIzRzr7OCxnFTo9cMur_DiqX2ylHvCozbZ8VZzShYEXt-_QOoCRBsTnGGzYKBQcO8kHAZeaqaBXjyH1tiP_qrKpf1FA0TNl2pzF3eZk7Z7aXgkkxzmK-aAdPcjXqTjsSkUd1Sk0N5r4CeH55U"
+  },
+  {
+    "id": 411,
+    "title": "The maximum price is",
+    "body": "A) P1<br />B) P2<br />C) P3<br />D) P4",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhQeR1_8kWeyCekpkmZLopsytHA8WlYLVd-uzfAFMPfAkmIzRzr7OCxnFTo9cMur_DiqX2ylHvCozbZ8VZzShYEXt-_QOoCRBsTnGGzYKBQcO8kHAZeaqaBXjyH1tiP_qrKpf1FA0TNl2pzF3eZk7Z7aXgkkxzmK-aAdPcjXqTjsSkUd1Sk0N5r4CeH55U"
+  },
+  {
+    "id": 412,
+    "title": "Real cost is",
+    "body": "A) Alternative commodities forgone<br />B) Amount of money spent on goods and services<br />C) Cost of goods and services<br />D) True cost",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 413,
+    "title": "..................... is the highest body in ECOWAS organogram",
+    "body": "A) Authority of Head of State and Government<br />B) The Executive Secretariat<br />C) The Defense Council<br />D) Council of Ministers",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 414,
+    "title": "Government uses all of the following ways to redistribute income, except",
+    "body": "A) Market intervention<br />B) Transfer earnings<br />C) Limited liability<br />D) Taxation",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 415,
+    "title": "The principle that specified that the amount, when and how to pay tax should be made known to tax payer is known as",
+    "body": "A) Principle of economy<br />B) Principle of convenience<br />C) Principle of simplicity<br />D) Principle of certainty",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 416,
+    "title": "Money could be defined as",
+    "body": "A) Options A, B and C<br />B) Medium of exchange<br />C) Settlement of debt<br />D) Medium of payment",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 417,
+    "title": "Business cycle is associated with",
+    "body": "A) Recession<br />B) Unemployment<br />C) Seasonal variation<br />D) Inflation",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 418,
+    "title": "Economic problem occurs when",
+    "body": "A) There is scarcity relative to demand<br />B) All raw materials are imported<br />C) Many people are out of work<br />D) There are no buyers for our goods",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 419,
+    "title": "A ............ in the price of the domestic currency in terms of a foreign currency is referred to as .............",
+    "body": "A) Decrease, appreciation<br />B) Increase, de-appreciation<br />C) Decrease, depreciation<br />D) Increase, consolidation",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 420,
+    "title": "Among all the determinants of economic growth, the most important one is",
+    "body": "A) Human capital<br />B) Increased GDP<br />C) Land and Natural resources<br />D) Technologies",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 421,
+    "title": "An increase in money income with constant price results in",
+    "body": "A) Outward shift in the budget line<br />B) Inward parallel shift in the budget line<br />C) Options A and C<br />D) Budget line remain constant",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 422,
+    "title": "The law of supply states that, other things being constant, as price increases",
+    "body": "A) Supply increases<br />B) Supply decreases<br />C) Quantity supplied increases<br />D) Quantity supplied decreases",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 423,
+    "title": "Which of the following is an example of expansionary monetary policy by the Central Bank of Nigeria?",
+    "body": "A) Lowering income taxes<br />B) Increasing the discount rate<br />C) Increasing the reserve ratio<br />D) Buying Treasury securities from commercial banks",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 424,
+    "title": "The demand for money will fall if",
+    "body": "A) People expect deflation soon<br />B) Real GDP rises<br />C) Real interest rates rise<br />D) The GDP deflator rises",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 425,
+    "title": "If commodities X and Y are substitute, their cross elasticity of demand will be",
+    "body": "A) One<br />B) Positive<br />C) Negative<br />D) Zero",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 426,
+    "title": "The term 'investment' in macroeconomics means",
+    "body": "A) Profit<br />B) Total amount of money invested in bonds and stocks<br />C) The total amount of capital goods in the country<br />D) The production of goods for immediate consumption",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 427,
+    "title": "The following are economic agents in any economy EXCEPT",
+    "body": "A) Central Bank<br />B) Household<br />C) Firm<br />D) Government",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 428,
+    "title": "One major criticism of foreign aid to developing countries is that it",
+    "body": "A) Gives too much power and control to world bank<br />B) Encourages growth in government bureaucracy<br />C) Is capital using rather than capital saving<br />D) Provides incentives for capital flight",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 429,
+    "title": "Public corporation is financed with",
+    "body": "A) Capital raised from shareholders<br />B) Tax payer's money<br />C) Capital raised from stock exchange<br />D) Capital contributed by owners",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 430,
+    "title": "The type of price elasticity of demand for a commodity whose quantity demanded remain unchanged despite changes in the price is",
+    "body": "A) Perfectly elastic<br />B) Infinitely elastic<br />C) Inelastic<br />D) Perfectly inelastic",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 431,
+    "title": "An increase in total production (real GDP) causes the demand for money to ______and the interest rate to _________",
+    "body": "A) Increase; decrease<br />B) Decrease; decrease<br />C) Increase; increase<br />D) Decrease; increase",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 432,
+    "title": "Part-time workers who desire full-time employment are:",
+    "body": "A) Underemployed and contribute to the unemployment statistic<br />B) Underemployed but do not contribute to the unemployment statistic<br />C) Not part of the labour force and do not contribute to the unemployment statistic<br />D) Cyclical unemployment",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 433,
+    "title": "Which of the following is the resultant effect of a fall in the profit margin of producers in an economy?",
+    "body": "A) Unemployment will fall<br />B) Unemployment will remain constant<br />C) Unemployment will increase<br />D) Unemployment will fluctuate",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 434,
+    "title": "Indicator of underdevelopment is",
+    "body": "A) high life expectancy<br />B) low birth rate<br />C) low population growth rate<br />D) low per capita income",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 435,
+    "title": "The decision to consume more of one product under normal circumstances will apply",
+    "body": "A) less of another product will be consumed<br />B) more of another product will be consumed<br />C) less of the product will be consumed<br />D) no other products will be consumed",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 436,
+    "title": "Identify one of the following which can NOT be used to close deflationary gap",
+    "body": "A) Increased interest rate<br />B) Increased money supply<br />C) Increase government expenditure<br />D) Reduction in taxes",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 437,
+    "title": "An increase in nominal income without increase in price will result to",
+    "body": "A) increased real income<br />B) increased GDP<br />C) decreased real income<br />D) decreased GNP",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 438,
+    "title": "If demand function for a product is Qd = 30 - 4P, and the price and quantity of products is 4 and 14 respectively. What is the price elasticity of demand for the product?",
+    "body": "A) 1.14<br />B) 7.1<br />C) 14.1<br />D) 1.7",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 439,
+    "title": "Macroeconomics focuses on the following units in an aggregative manner",
+    "body": "A) household, firms, government, corporate sector and external sector<br />B) individual consumers, individual firms, government and external sector<br />C) government, household firms, individual consumers and external sector<br />D) individual consumers, household firms and manufacturing sector",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 440,
+    "title": "Which of the following would not be a reason for a government to impose a quota on imports?",
+    "body": "A) To support strategic industry<br />B) To prevent dumping<br />C) To decrease tax revenue<br />D) Employment opportunity",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 441,
+    "title": "The economies of West African Countries depend majorly on",
+    "body": "A) primary product<br />B) secondary product<br />C) tertiary product<br />D) manufacturing product",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 442,
+    "title": "When a generalization is made based on observed facts, it is",
+    "body": "A) inductive reasoning<br />B) normative reasoning<br />C) theoretical reasoning<br />D) deductive reasoning",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 443,
+    "title": "A persistent rise in the prices of inputs will lead to",
+    "body": "A) cost push inflation<br />B) demand pull inflation<br />C) hyperinflation<br />D) stagflation",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 444,
+    "title": "From the graph below, Point 'E' shows--------------",
+    "body": "A) product inefficiency<br />B) product efficiency<br />C) productive efficiency<br />D) allocative efficiency",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": "https://blogger.googleusercontent.com/img/a/AVvXsEht9d2xQoAaD6qwoVuRhrxoUHZYohB-Y7PbIIx6nxBM2-1shTf4qNuDBEqZX_Zp4xR9bbCEz5dp6ZL7Epr06SiBzhUsB-PksAuhejbV7__aINJIGvJX5MsAGaarZwZPGBgnTkYMV3fOrz87avE8Z1JKtl8kwWD78siJdycYpTrXcq6du8L0-lEl7C_JSXE"
+  },
+  {
+    "id": 445,
+    "title": "Which of the following Age group belongs to active Labour force?",
+    "body": "A) 15 - 25yrs<br />B) 0 - 17yrs<br />C) 65yrs and above<br />D) 18 - 64yrs",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+   {
+    "id": 454,
+    "title": "Suppose the public expenditure as a percentage of GDP of four countries is shown in the table below. Which type of economy exists in these countries?",
+    "body": "A) Traditional<br />B) Planned<br />C) Pure market<br />D) Mixed",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 455,
+    "title": "The diagram above represent",
+    "body": "A) Supply curve<br />B) Production possibility curve<br />C) indifference curve<br />D) Demand curve",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjbTpkLN_d5BZoKL9vT_dmTqRQL2d2fgxeICmURW8jgXSQDSNIPmRR9SnbalDPR8LNYn-Ukr1lFuwfmey_IkxF5zvLrVDWsj3P2U9gwUTZI91fY7iFtoOQnLW8y0OZlDormp1_OOu5wfV5-Da2esDqa6n3Qp_BO7ne3yD-XmRCeZeYzFKPB6JZzyQhdBs8"
+  },
+  {
+    "id": 456,
+    "title": "40 men were employed in a farm, and they produced an average of 30 tonnes of cassava per person. Calculate the total product.",
+    "body": "A) 1,300 tonnes<br />B) 1,100 tonnes<br />C) 1,200 tonnes<br />D) 1,400 tonnes",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 457,
+    "title": "Economists refer to private goods as",
+    "body": "A) rivalrous and non-excludable<br />B) rivalrous and excludable<br />C) non rival and non-excludable<br />D) non rival and excludable",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 458,
+    "title": "The rate of output per worker (or group of workers) per unit time is called",
+    "body": "A) labour productivity<br />B) total output<br />C) individual output<br />D) workdone",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 459,
+    "title": "The quantity of commodity a consumer is willing and able to buy at a particular time is called",
+    "body": "A) supply<br />B) wish<br />C) demand<br />D) desire",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 460,
+    "title": "If the supply curve of labour market is given as S = 4L + 8. What is L when s = 20?",
+    "body": "A) 2<br />B) 4<br />C) 5<br />D) 3",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 461,
+    "title": "All of the following describes conditions necessary for existence of a perfect market EXCEPT",
+    "body": "A) lack of homogeneity of goods<br />B) perfect knowledge<br />C) large buyers and sellers<br />D) portability of goods",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 462,
+    "title": "From the graph above, the consumer is at equilibrium at point",
+    "body": "A) k<br />B) l<br />C) m<br />D) j",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": "https://blogger.googleusercontent.com/img/a/AVvXsEiCVIzxX0CQ3iIGRadTqla-w035c2j_3-9raWl_i1h1pncGqO0XKXtcARqvg5gwQgrOoTbjxykTMDAmjcAUUGgeIXPlNfTrtRZHidh94uZX9II9TVI6xSzER82CrP6SYMb5dDZ4Vd9jUDAlXk0ePfyeT2L22N23j-FegoJldCsWLqAS7VYuPBdivivhw80"
+  },
+  {
+    "id": 463,
+    "title": "Calculate the equilibrium level of national income (Y) where Y = C + I + G; C = 100 + 0.75Y; I = 50; G = 200",
+    "body": "A) 2000<br />B) 100<br />C) 1500<br />D) 1400",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 464,
+    "title": "When a kilogram of carrot is #8.00, 20 kilograms are demanded and when the price decreased to #6.00 per kilogram, 30 kilograms are demanded. The elasticity of demand equals to",
+    "body": "A) 11<br />B) 12<br />C) (no option)<br />D) 2",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 465,
+    "title": "Agriculture accounts for about 60% of the",
+    "body": "A) commodity market in West Africa<br />B) arable land in West Africa<br />C) active labour force in West Africa<br />D) service sector activities in West Africa",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 466,
+    "title": "Which of the following shows why individual demand curve for a good usually slopes downward from left to right?",
+    "body": "A) More of commodities are offered for sale at a lower than higher prices<br />B) Marginal utility falls as consumption increases<br />C) The higher the price, the higher the quantity offered for sale<br />D) Prices are usually falling when demand is low",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 467,
+    "title": "Multiplier can be described as",
+    "body": "A) the ratio of change in an endogenous variable to the change spending<br />B) the ratio of variables that multiplies autonomous spending plus tax<br />C) the ratio of change in output to a change in autonomous spending<br />D) the ratio of variables that multiplies autonomous spending",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 468,
+    "title": "Which one of the following measures the natural growth rate of population?",
+    "body": "A) Natural increase - Birth rate + Net migration<br />B) Birth rate - Death rate<br />C) Birth rate/Death rate<br />D) Birth + Net migration = Death",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 469,
+    "title": "------------- is NOT the cause of balance of payments (BOP) deficits in Nigeria",
+    "body": "A) Poor performance of non-oil sector<br />B) Export promotion<br />C) No import substitution strategies<br />D) High servicing of debt",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 470,
+    "title": "In a two by two model of international trade, it is assumed that",
+    "body": "A) both countries could gain from trade at the same time, but term of trade is inconsequential for the distribution of the gains<br />B) both countries could gain from trade at the same time, but the volume of the gains depends on terms of trade<br />C) neither country could ever gain from trade since term of trade is depends on the distribution of the gains from trade<br />D) both countries could gain from trade at the same time, and the volume of the gains does not depend on terms of trade",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 471,
+    "title": "Institutions serving as links between surplus and deficit units can be identified as",
+    "body": "A) tax officers<br />B) pension offices<br />C) financial intermediates<br />D) acceptance houses",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 472,
+    "title": "Which of the following will cause an increase in cost of production?",
+    "body": "A) Hyper-inflation<br />B) Cost push inflation<br />C) Structural inflation<br />D) Demand pull inflation",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 473,
+    "title": "The number of people who are qualified to work and who offered themselves for employment are called",
+    "body": "A) mobility of labour<br />B) working population<br />C) migrant labour<br />D) labour turnover",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 474,
+    "title": "The diagram above represent",
+    "body": "A) structural unemployment<br />B) cyclical unemployment<br />C) voluntary unemployment<br />D) frictional unemployment",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": "https://blogger.googleusercontent.com/img/a/AVvXsEiUTfErJJZcW-JyeLAYNs8hYBA0jETwEQUefi1FcVPPynNkocJP9c8E5EnRjdpdy_X7q5T7IGmz1WyuKoCq5VLr7OLnAHbPOtyPVcDDwiaCzVFsOSi9f3oZjRQdSE7ssPnf6fDuITa7EztY6nHG0pjiRoOLMWlktQz9G1QxNkje0MMYoKHSlRBCB2KlCHY"
+  },
+  {
+    "id": 475,
+    "title": "Overpopulation is caused by",
+    "body": "A) emigration<br />B) disease<br />C) low Literacy rates<br />D) war and conflicts",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 476,
+    "title": "Which of the following must be true to have a closed economy with no government, and yet the value of the investment multiplier still increase?",
+    "body": "A) Marginal propensity to save has fallen<br />B) Actual investment had fallen<br />C) Average propensity to invest has fallen<br />D) Actual saving has fallen",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 477,
+    "title": "Economics is often described as a science because it",
+    "body": "A) employs the use of laboratory experiments<br />B) uses scientific methods to explain observed phenomena<br />C) makes use of controlled experiments<br />D) engages accurate prediction of human beings",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
+  },
+  {
+    "id": 478,
+    "title": "Given the table demonstrating the law of diminishing marginal utility below, what is the value of X?",
+    "body": "A) 0.5<br />B) 7<br />C) 0<br />D) 8",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgerffqFlvfH6YG1JdOnCrZprwlcIc4HGiDkAWIGgkM5ZiL5kFoaQDz5heQxhoQBRBfUBLhmmNEjVys5RhhD_wl0NPzeZxCHB9AV_PPCQ4hU6GSJxhFzbGOqS3DqeQ8cYfW88FPuyn0aooRguhfUzQyezeujTtK-UZouwMhNX1ucZkxmVmES1nCWCV8XNs=w640-h302"
+  },
+  {
+    "id": 479,
+    "title": "Which of the following is NOT one of the characteristics of developing countries?",
+    "body": "A) High unemployment<br />B) Mono-product economy<br />C) High capital formation<br />D) Low saving",
+    "tags": ["JAMB", "2023"],
+    "subject": "Economics",
+    "exam": "JAMB",
+    "image": ""
   }
 ]      
