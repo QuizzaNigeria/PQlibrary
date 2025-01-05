@@ -1,94 +1,114 @@
 [
 {
-        "id": 1,
-        "title": "Commercial activities received a great boost in West Africa due to contact with?",
-        "body": "A. Asians<br />B. Europeans<br />C. Americans<br />D. Africans",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": ""
-    },
-    {
-        "id": 2,
-        "title": "The job of the police in keeping law and order in the society is?",
-        "body": "A. a commercial service<br />B. an indirect service<br />C. a direct service<br />D. a self service<br />E. specialized service",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": ""
-    },
-    {
-        "id": 3,
-        "title": "A business which becomes insolvent may result in",
-        "body": "A. continuity<br />B. expansion<br />C. liquidation<br />D. re-incorporation",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": ""
-    },
-    {
-        "id": 4,
-        "title": "Which of the following does not belong to the extractive occupation?",
-        "body": "A. quarrying<br />B. carving<br />C. mining<br />D. agriculture",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": ""
-    },
-    {
-        "id": 5,
-        "title": "The major divisions of commerce are?",
-        "body": "A. import, export and transportation<br />B. trade, communication and warehouse<br />C. import, trade and production<br />D. trade and auxiliaries to trade",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": ""
-    },
-    {
-        "id": 6,
-        "title": "A memorandum of association is a document",
-        "body": "A. defining a company's relationship with the public<br />B. inviting the public to buy a company's shares<br />C. governing the affairs of the partnership<br />D. regulating a company's internal affairs",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": ""
-    },
-    {
-        "id": 7,
-        "title": "The main purpose of branding is to?",
-        "body": "A. increase the quantity of goods demanded<br />B. increase the selling price of goods<br />C. differentiate goods from other similar goods<br />D. enhance turnover of goods",
-        "tags": ["WAEC", "2017", "Commerce"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": ""
-    },
-    {
-        "id": 8,
-        "title": "The facility which is not provided by the port authority is?",
-        "body": "A. berth<br />B. warehouse<br />C. tarmac<br />D. cranes",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": ""
-    },
-    {
-        "id": 9,
-        "title": "A cheque could be dishonoured as a result of?",
-        "body": "A. same amount in words and figure<br />B. insufficient fund<br />C. general crossing<br />D. regular signature",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": ""
-    },
-    {
-        "id": 10,
-        "title": "When a company sells shares to existing shareholders at preferential rate, this is",
-        "body": "A. a right issue<br />B. bonus issue<br />C. private placing<br />D. issue by introduction",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": ""
-    },
+    "id": 1,
+    "title": "Commercial activities received a great boost in West Africa due to contact with?",
+    "body": "A. Asians<br />B. Europeans<br />C. Americans<br />D. Africans",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "",
+    "answer": "B. Europeans",
+    "explanation": "European colonization and trade networks greatly expanded commercial activities in West Africa."
+  },
+  {
+    "id": 2,
+    "title": "The job of the police in keeping law and order in the society is?",
+    "body": "A. a commercial service<br />B. an indirect service<br />C. a direct service<br />D. a self service<br />E. specialized service",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "",
+    "answer": "C. a direct service",
+    "explanation": "The police provide a direct service to society by maintaining law and order."
+  },
+  {
+    "id": 3,
+    "title": "A business which becomes insolvent may result in",
+    "body": "A. continuity<br />B. expansion<br />C. liquidation<br />D. re-incorporation",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "",
+    "answer": "C. liquidation",
+    "explanation": "Insolvency often leads to liquidation, where the business assets are sold to pay off debts."
+  },
+  {
+    "id": 4,
+    "title": "Which of the following does not belong to the extractive occupation?",
+    "body": "A. quarrying<br />B. carving<br />C. mining<br />D. agriculture",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "",
+    "answer": "D. agriculture",
+    "explanation": "Agriculture is not part of extractive occupations, which typically involve mining, quarrying, and similar activities."
+  },
+  {
+    "id": 5,
+    "title": "The major divisions of commerce are?",
+    "body": "A. import, export and transportation<br />B. trade, communication and warehouse<br />C. import, trade and production<br />D. trade and auxiliaries to trade",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "",
+    "answer": "D. trade and auxiliaries to trade",
+    "explanation": "The two major divisions of commerce are trade and auxiliaries to trade, such as banking, insurance, and transportation."
+  },
+  {
+    "id": 6,
+    "title": "A memorandum of association is a document",
+    "body": "A. defining a company's relationship with the public<br />B. inviting the public to buy a company's shares<br />C. governing the affairs of the partnership<br />D. regulating a company's internal affairs",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "",
+    "answer": "A. defining a company's relationship with the public",
+    "explanation": "The memorandum of association is a legal document that defines a company's relationship with the public, outlining the company's objectives and scope."
+  },
+  {
+    "id": 7,
+    "title": "The main purpose of branding is to?",
+    "body": "A. increase the quantity of goods demanded<br />B. increase the selling price of goods<br />C. differentiate goods from other similar goods<br />D. enhance turnover of goods",
+    "tags": ["WAEC", "2017", "Commerce"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "",
+    "answer": "C. differentiate goods from other similar goods",
+    "explanation": "Branding is primarily used to differentiate a product or service from competitors, establishing a unique identity in the market."
+  },
+  {
+    "id": 8,
+    "title": "The facility which is not provided by the port authority is?",
+    "body": "A. berth<br />B. warehouse<br />C. tarmac<br />D. cranes",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "",
+    "answer": "C. tarmac",
+    "explanation": "Port authorities generally provide facilities like berths, warehouses, and cranes but not tarmacs, which are typically used for aircrafts."
+  },
+  {
+    "id": 9,
+    "title": "A cheque could be dishonoured as a result of?",
+    "body": "A. same amount in words and figure<br />B. insufficient fund<br />C. general crossing<br />D. regular signature",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "",
+    "answer": "B. insufficient fund",
+    "explanation": "A cheque may be dishonoured if there are insufficient funds in the account to cover the amount."
+  },
+  {
+    "id": 10,
+    "title": "When a company sells shares to existing shareholders at preferential rate, this is",
+    "body": "A. a right issue<br />B. bonus issue<br />C. private placing<br />D. issue by introduction",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "",
+    "answer": "A. a right issue",
+    "explanation": "A right issue allows existing shareholders to purchase additional shares at a preferential price, typically lower than the market value."
+  },
                 
     {
         "id": 11,
