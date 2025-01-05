@@ -109,97 +109,117 @@
     "answer": "A. a right issue",
     "explanation": "A right issue allows existing shareholders to purchase additional shares at a preferential price, typically lower than the market value."
   },
-                
     {
-        "id": 11,
-        "title": "The conversion of raw materials into finished goods is performed by?",
-        "body": "A. extractive industry<br />B. service occupation<br />C. commercial occupation<br />D. the manufacturing industry",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": "#"
-    },
-    {
-        "id": 12,
-        "title": "Which of the following is not a factor of production?",
-        "body": "A. capital<br />B. labour<br />C. exchange<br />D. entrepreneurship",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": "#"
-    },
-    {
-        "id": 13,
-        "title": "What is the average stock?",
-        "body": "A. D12,000<br />B. D7,000<br />C. D6,000<br />D. D5,000",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": "#"
-    },
-    {
-        "id": 14,
-        "title": "What is the cost of goods sold?",
-        "body": "A. D55,000<br />B. D42,000<br />C. D32,000<br />D. D28,000",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": "#"
-    },
-    {
-        "id": 15,
-        "title": "What is the rate of stock turnover?",
-        "body": "A. 11 times<br />B. 6 times<br />C. 4.7 times<br />D. 4 times",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": "#"
-    },
-    {
-        "id": 16,
-        "title": "Which of the following is a source of short-term capital?",
-        "body": "A. trade credit<br />B. shares<br />C. leasing<br />D. debenture",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": "#"
-    },
-    {
-        "id": 17,
-        "title": "The most suitable channel for the sale of an aircraft is?",
-        "body": "A. manufacturer-wholesaler-retailer-consumer<br />B. manufacturer-wholesaler-consumer<br />C. manufacturer-retailer-consumer<br />D. manufacturer-consumer",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": "#"
-    },
-    {
-        "id": 18,
-        "title": "The duty payable on goods produced locally is",
-        "body": "A. export duty<br />B. excise duty<br />C. import duty<br />D. ad valorem duty",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": "#"
-    },
-    {
-        "id": 19,
-        "title": "An overdraft is granted to holders of?",
-        "body": "A. savings accounts<br />B. loan accounts<br />C. deposit accounts<br />D. current accounts",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": "#"
-    },
-    {
-        "id": 20,
-        "title": "The amount of capital used in the day-to-day running of a company is?",
-        "body": "A. working capital<br />B. capital employed<br />C. share capital<br />D. fixed capital",
-        "tags": ["WAEC", "2017", "COMMERCE"],
-        "subject": "Commerce",
-        "exam": "WAEC",
-        "image": "#"
-    },
+    "id": 11,
+    "title": "The conversion of raw materials into finished goods is performed by?",
+    "body": "A. extractive industry<br />B. service occupation<br />C. commercial occupation<br />D. the manufacturing industry",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "#",
+    "answer": "D. the manufacturing industry",
+    "explanation": "The manufacturing industry is responsible for transforming raw materials into finished goods. For example, raw cotton is spun and woven to create fabric in the textile industry."
+  },
+  {
+    "id": 12,
+    "title": "Which of the following is not a factor of production?",
+    "body": "A. capital<br />B. labour<br />C. exchange<br />D. entrepreneurship",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "#",
+    "answer": "C. exchange",
+    "explanation": "Exchange is not considered a factor of production. The primary factors of production are land, labour, capital, and entrepreneurship. Exchange refers to the act of buying and selling goods and services, not a productive resource."
+  },
+  {
+    "id": 13,
+    "title": "What is the average stock?",
+    "body": "A. D12,000<br />B. D7,000<br />C. D6,000<br />D. D5,000",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "#",
+    "answer": "B. D7,000",
+    "explanation": "The average stock is calculated as the average of the opening and closing stock over a given period. For instance, if the opening stock is D5,000 and the closing stock is D9,000, the average stock would be D7,000."
+  },
+  {
+    "id": 14,
+    "title": "What is the cost of goods sold?",
+    "body": "A. D55,000<br />B. D42,000<br />C. D32,000<br />D. D28,000",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "#",
+    "answer": "B. D42,000",
+    "explanation": "The cost of goods sold (COGS) is the direct costs of producing or purchasing the goods sold by a company. If the opening stock is D10,000, purchases are D50,000, and closing stock is D18,000, the COGS is calculated as: Opening Stock + Purchases - Closing Stock = D10,000 + D50,000 - D18,000 = D42,000."
+  },
+  {
+    "id": 15,
+    "title": "What is the rate of stock turnover?",
+    "body": "A. 11 times<br />B. 6 times<br />C. 4.7 times<br />D. 4 times",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "#",
+    "answer": "C. 4.7 times",
+    "explanation": "The rate of stock turnover indicates how many times stock is sold and replaced within a period. It is calculated by dividing the cost of goods sold by the average stock. For example, if the COGS is D42,000 and average stock is D9,000, then the rate of stock turnover is D42,000 / D9,000 = 4.7 times."
+  },
+  {
+    "id": 16,
+    "title": "Which of the following is a source of short-term capital?",
+    "body": "A. trade credit<br />B. shares<br />C. leasing<br />D. debenture",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "#",
+    "answer": "A. trade credit",
+    "explanation": "Trade credit is a short-term source of capital where businesses purchase goods or services from suppliers and pay for them later. It is typically used by businesses to manage their cash flow on a short-term basis."
+  },
+  {
+    "id": 17,
+    "title": "The most suitable channel for the sale of an aircraft is?",
+    "body": "A. manufacturer-wholesaler-retailer-consumer<br />B. manufacturer-wholesaler-consumer<br />C. manufacturer-retailer-consumer<br />D. manufacturer-consumer",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "#",
+    "answer": "D. manufacturer-consumer",
+    "explanation": "Aircraft sales typically involve direct transactions from the manufacturer to the consumer (the airline or individual), as they are specialized products requiring customization and significant investment. Middlemen such as wholesalers or retailers are generally not involved."
+  },
+  {
+    "id": 18,
+    "title": "The duty payable on goods produced locally is",
+    "body": "A. export duty<br />B. excise duty<br />C. import duty<br />D. ad valorem duty",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "#",
+    "answer": "B. excise duty",
+    "explanation": "Excise duty is a tax levied on goods produced within a country, such as alcohol, tobacco, and petroleum products. It is typically imposed by the government to generate revenue and regulate consumption."
+  },
+  {
+    "id": 19,
+    "title": "An overdraft is granted to holders of?",
+    "body": "A. savings accounts<br />B. loan accounts<br />C. deposit accounts<br />D. current accounts",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "#",
+    "answer": "D. current accounts",
+    "explanation": "An overdraft is a form of credit where the bank allows a current account holder to withdraw more than their balance, up to an agreed limit. This is typically offered to business accounts to help with short-term cash flow needs."
+  },
+  {
+    "id": 20,
+    "title": "The amount of capital used in the day-to-day running of a company is?",
+    "body": "A. working capital<br />B. capital employed<br />C. share capital<br />D. fixed capital",
+    "tags": ["WAEC", "2017", "COMMERCE"],
+    "subject": "Commerce",
+    "exam": "WAEC",
+    "image": "#",
+    "answer": "A. working capital",
+    "explanation": "Working capital refers to the capital used in the day-to-day operations of a business, such as paying for raw materials, wages, and other short-term expenses. It is calculated as current assets minus current liabilities."
+  },             
+   
     {
         "id": 21,
         "title": "An example of an invisible item of trade is?",
